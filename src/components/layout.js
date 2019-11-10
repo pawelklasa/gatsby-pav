@@ -27,7 +27,7 @@ const Layout = props => {
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+                <Link to={`/`}>Portfolio</Link>
               </li>
               <li className="nav-about" role="menuitem">
                 <Link to={`/about`}>About</Link>
@@ -50,7 +50,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Github
               </a>
               <a
                 href="https://twitter.com"
@@ -58,7 +58,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                Behance
               </a>
               <Link
                 to={`/rss.xml`}
@@ -66,7 +66,7 @@ const Layout = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                RSS
+                Email
               </Link>
             </div>
           </div>
@@ -78,15 +78,7 @@ const Layout = props => {
         </div>
       </main>
       <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
-        <a
-          href="https://gatsbyjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gatsby
-        </a>
+        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link>
       </footer>
     </div>
   )

@@ -1,7 +1,7 @@
 ---
-title: It's all blue
+title: TalkTalk
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
+thumbnail: ./thumbnail.png
 description: What if everything you knew was turned to blue?
 ---
 
