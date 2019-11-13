@@ -15,7 +15,9 @@ I soon realised I needed a design system to ensure consistency across TalkTalk's
 
 ### Our approach
 
-TalkTalk is a budget Internet Service Provider, and we knew we have to rely on frameworks to keep the budget as low as possible. After extensive research and tests, we have decided to go with AngularJS and Bootstrap. Our vision was to treat TalkTalk's online products as independent Single Page Web Applications, supported by already established responsive framework re-styled with TalkTalk's brand guidelines in mind. We were asked to create a working prototype within a month and present it to the stakeholders.
+TalkTalk is a budget Internet Service Provider, and we knew we have to rely on frameworks to keep the budget as low as possible.
+
+After extensive research and tests, we have decided to go with AngularJS and Bootstrap. Our vision was to treat TalkTalk's online products as independent Single Page Web Applications, supported by already established responsive framework re-styled with TalkTalk's brand guidelines in mind. We were asked to create a working prototype within a month and present it to the stakeholders.
 
 ![It's all blue](./cody-davis-259003-unsplash.jpg)
 
