@@ -6,8 +6,6 @@
 
 </h1>
 
-
-
 1.  **Create a Gatsby site.**
 
     Use `npx` and the Gatsby CLI to create a new project
