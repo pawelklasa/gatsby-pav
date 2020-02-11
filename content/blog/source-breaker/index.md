@@ -15,9 +15,7 @@ I led the design of SourceBreaker 2.0 since the outset of the project in January
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./flow.png)
-
-![Darkness](./SB-3.png)
+![source-breaker](./SB-3.png)
 
 </div>
 
@@ -28,7 +26,7 @@ Given the deadline, budget and some technical limitations required a Lean UX / U
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./ux.png)
+![source-breaker](./ux.png)
 
 </div>
 
@@ -47,6 +45,6 @@ A powerful collaboration tool that allows the entire team to experience the prot
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./wireframes.png)
+![source-breaker](./wireframes.png)
 
 </div>
