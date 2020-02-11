@@ -1,9 +1,6 @@
-
-  Pawel Klasa
-
+Pawel Klasa
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
-
 
 1.  **Create a Gatsby site.**
 
@@ -16,6 +13,7 @@
 
 1.  **Start developing.**
 
+
     Navigate into your new site’s directory and start it up.
 
     ```sh
@@ -27,4 +25,4 @@
 
     Your site is now running at `http://localhost:8000`!
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. 
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`\_. This is a tool you can use to experiment with querying your data.
