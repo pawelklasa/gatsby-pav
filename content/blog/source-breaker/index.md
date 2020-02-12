@@ -47,4 +47,28 @@ A powerful collaboration tool that allows the entire team to experience the prot
 
 ![source-breaker](./wireframes.png)
 
+<div class="">
+</div>
+<div>
+          <h3 id="blockquote">
+            <strong>Blockquote</strong>
+          </h3>
+          <blockquote>
+            First page was quite crowded but it's actually easier to use - can see more info on the candidates without maximizing the window
+          </blockquote>
+</div>
+<div>
+                    <h2 id="blockquote">
+            <strong>Blockquote</strong>
+          </h2>
+          <blockquote>
+            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
+            sagittis eget tempus euismod. Vestibulum ante ipsum primis in
+            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
+            adipiscing accumsan faucibus. Vestibulum ante ipsum primis in
+            faucibus vestibulum. Blandit adipiscing eu felis.
+          </blockquote>
+
+</div>
+
 </div>
