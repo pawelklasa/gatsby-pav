@@ -47,7 +47,6 @@ A powerful collaboration tool that allows the entire team to experience the prot
 
 ![source-breaker](./wireframes.png)
 
-<div class="">
 </div>
 <div>
           <h3 id="blockquote">
