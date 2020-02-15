@@ -1,7 +1,7 @@
 ---
 title: SourceBreaker 2.0
 date: "2019-05-08"
-thumbnail: ./SB-2-0.png
+thumbnail: ./sourcebreaker.jpg
 description: Intelligent sourcing platform that finds recruiters more of the best candidates and matching leads
 ---
 
